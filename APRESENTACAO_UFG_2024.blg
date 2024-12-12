@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: APRESENTACAO_UFG_2024.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+The style file: abntex2-alf.bst
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Database file #1: abntex2-options.bib
+Database file #2: referencias.bib
+Warning--I didn't find a database entry for "abnt-repeat-title-omit=yes"
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+You've used 6 entries,
+            6714 wiz_defined-function locations,
+            1220 strings with 9926 characters,
+and the built_in function-call counts, 3217 in all, are:
+= -- 329
+> -- 82
+< -- 1
++ -- 77
+- -- 26
+* -- 197
+:= -- 490
+add.period$ -- 10
+call.type$ -- 6
+change.case$ -- 37
+chr.to.int$ -- 8
+cite$ -- 3
+duplicate$ -- 100
+empty$ -- 260
+format.name$ -- 116
+if$ -- 766
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 78
+newline$ -- 23
+num.names$ -- 15
+pop$ -- 92
+preamble$ -- 1
+purify$ -- 20
+quote$ -- 0
+skip$ -- 264
+stack$ -- 1
+substring$ -- 110
+swap$ -- 31
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 20
+width$ -- 0
+write$ -- 51
+(There was 1 warning)

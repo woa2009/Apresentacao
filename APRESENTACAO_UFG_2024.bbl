@@ -1,0 +1,29 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[ABNT 1989]{NBR10905:1989}
+\abntrefinfo{ABNT}{ABNT}{1989}
+{ABNT. \textbf{{NBR}-10905: Solo -- Ensaios de palheta in situ}.
+Rio de Janeiro, 1989. 9~p.}
+
+\bibitem[{David E. Rumelhart}, {Geoffrey E. Hinton} e {Ronald J. Williams}
+  1986]{Rumelhart_1986}
+\abntrefinfo{{David E. Rumelhart}, {Geoffrey E. Hinton} e {Ronald J.
+  Williams}}{{David E. Rumelhart}; {Geoffrey E. Hinton}; {Ronald J.
+  Williams}}{1986}
+{{David E. Rumelhart}; {Geoffrey E. Hinton}; {Ronald J. Williams}. Learning
+  representations by back-propagating errors.
+\textbf{Nature}, 1986.}
+
+\bibitem[{Hopfield, J. J.} 1982]{Hopfield_1982}
+\abntrefinfo{{Hopfield, J. J.}}{{Hopfield, J. J.}}{1982}
+{{Hopfield, J. J.} Neural networks andphysical systems withemergent collective
+  computational abilities.
+\textbf{Proceedings of the National Academy of Sciences of the United States of
+  America}, 1982.}
+
+\end{thebibliography}
